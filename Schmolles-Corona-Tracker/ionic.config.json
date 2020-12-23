@@ -1,0 +1,7 @@
+{
+  "name": "Schmolles-Corona-Tracker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
